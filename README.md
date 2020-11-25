@@ -1,5 +1,7 @@
 # CourseManager
-
+<h1 align="center">
+ <img src="https://i.imgur.com/NZQLomK.png" alt="imagem" width="300"/>  
+</h1>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
 ## Development server
